@@ -51,10 +51,10 @@
 
 | Обучение                                                        | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| БрГТУ / Факультет электронно-информационных систем              | 09/2017 - 01/2021 |
-| udemy.com /    <a target='_blank' href='https://udemy-certificate.s3.amazonaws.com/image/UC-5bf1a7e3-0a0d-4760-acba-3899e7dcb465.jpg'> JavaScript, React + Redux - сертификат </a>         | 02/2023 - 01/2024 |
+| БрГТУ / Факультет электронно-информационных систем              | 09/2017 - 07/2021 |
+| udemy.com /    <a target='_blank' href='https://udemy-certificate.s3.amazonaws.com/image/UC-5bf1a7e3-0a0d-4760-acba-3899e7dcb465.jpg'>Полный курс по JavaScript + React, Redux - сертификат </a>         | 02/2023 - 01/2024 |
 
-Полный курс по JavaScript + React, Redux
+
 ### ⚙️ GitHub статистика:
 
 <table>
