@@ -1,16 +1,84 @@
-### Hi there 👋
+![image](https://github.com/vladexnik/vladexnik/assets/51366969/1c79afd2-036c-442d-9b67-57e415ee1f48)
+# Привет, меня зовут Владислав!
 
-<!--
-**vladexnik/vladexnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я занимаюсь фронтенд разработкой<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в университете, где писал приложения на C, C++, Java, C#. Коммуникативные навыки на высоком уровне, есть опыт работы в команде разработчиков при создании проектов в университете. Затем проходил курсы по верстке и веб разработке, в ходе которых решил стать фронтенд разработчиком. На данный момент ищу компанию, где буду совершенствоваться и расти в сильного технического специалиста.
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+Завершил курсы по веб-разработке на платформе Udemy - <a target='_blank' href='https://udemy-certificate.s3.amazonaws.com/image/UC-5bf1a7e3-0a0d-4760-acba-3899e7dcb465.jpg'> JavaScript, React + Redux - сертификат </a>
+
+---
+
+### 🤝 Вы можете со мной связаться:
+
+  <div id="badges">
+    
+    <a href="https://www.linkedin.com/in/vladzik22/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    
+    <a href="https://t.me/slev22" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+
+    <a href="https://vk.com/vladzenik" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+
+    <a href="mailto:nikityuk.vlad9@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+
+</div>
+
+
+---
+
+
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| udemy.com/Полный курс по JavaScript + React, Redux              | 02/2023 - 01/2024 |
+
+
+
+
+//### 💻 Codewars:
+
+// ![codewars]()
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
