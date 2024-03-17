@@ -5,11 +5,9 @@
 
 ### :man_technologist: Обо мне:
 
-Я занимаюсь фронтенд разработкой<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в университете, где писал приложения на C, C++, Java, C#. Коммуникативные навыки на высоком уровне, есть опыт работы в команде разработчиков при создании проектов в университете. Затем проходил курсы по верстке и веб разработке, в ходе которых решил стать фронтенд разработчиком. На данный момент ищу компанию, где буду совершенствоваться и расти в сильного технического специалиста.
+Я занимаюсь фронтенд разработкой<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в университете, где писал приложения на C, C++, Java, C#. Коммуникативные навыки на высоком уровне, есть опыт работы в команде разработчиков при создании проектов в университете. Затем проходил курсы по верстке и веб разработке, в ходе которых решил стать фронтенд разработчиком. 
+На данный момент ищу компанию, где буду совершенствоваться и расти в сильного технического специалиста.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 Завершил курсы по веб-разработке на платформе Udemy - <a target='_blank' href='https://udemy-certificate.s3.amazonaws.com/image/UC-5bf1a7e3-0a0d-4760-acba-3899e7dcb465.jpg'> JavaScript, React + Redux - сертификат </a>
 
@@ -19,21 +17,17 @@
 
   <div id="badges">
     
-    <a href="https://www.linkedin.com/in/vladzik22/" target="_blank">
+   <a href="https://www.linkedin.com/in/vladzik22/" target="_blank">
       <svg width="40" height="40" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none"><path fill="#0A66C2" d="M12.225 12.225h-1.778V9.44c0-.664-.012-1.519-.925-1.519-.926 0-1.068.724-1.068 1.47v2.834H6.676V6.498h1.707v.783h.024c.348-.594.996-.95 1.684-.925 1.802 0 2.135 1.185 2.135 2.728l-.001 3.14zM4.67 5.715a1.037 1.037 0 01-1.032-1.031c0-.566.466-1.032 1.032-1.032.566 0 1.031.466 1.032 1.032 0 .566-.466 1.032-1.032 1.032zm.889 6.51h-1.78V6.498h1.78v5.727zM13.11 2H2.885A.88.88 0 002 2.866v10.268a.88.88 0 00.885.866h10.226a.882.882 0 00.889-.866V2.865a.88.88 0 00-.889-.864z"/></svg>
-    </a>
+   </a>
     
-    <a href="https://t.me/slev22" target="_blank">
-      <a href="https://www.flaticon.com/free-icons/telegram" title="telegram icons">Telegram icons created by Fathema Khanom - Flaticon</a>
-    </a>
+   <a href="https://t.me/slev22" target="_blank">
+     <img src="https://www.flaticon.com/free-icons/telegram" title="telegram icons"/>
+   </a>
 
-    <a href="https://vk.com/vladzenik" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-
-    <a href="mailto:nikityuk.vlad9@gmail.com" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
+   <a href="mailto:nikityuk.vlad9@gmail.com" target="_blank">
+      <img src="https://www.flaticon.com/free-icons/gmail" width="40" height="40" alt="Gmail"/>
+   </a>
   </div>
 
 ---
