@@ -1,21 +1,22 @@
 
-# Привет, меня зовут Владислав!
+# Hi there, i am Vladislav!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я занимаюсь фронтенд-разработкой<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался в университете, где писал приложения на C, C++, Java, C#. Затем проходил курсы по верстке и веб разработке, в ходе которых изучил JavaScript и множество библиотек для работы с ui. Коммуникативные навыки на высоком уровне, есть опыт работы в команде разработчиков при создании проектов в университете. <br>На данный момент ищу компанию, где буду совершенствоваться и расти в сильного технического специалиста.
+I am Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.  My path to IT began at the university, where I wrote applications in C, C++, Java, C#. Then I took courses in layout and web-development, during which I learned JavaScript and many libraries for working with UI. Communication skills are at the high level, I have an experience at working in a team of developers, when we were creating projects at the university.<br>
+At the moment I am looking for a company where I will improve and grow into a strong technical specialist.
 
-| Обучение                                                        | Дата              |
+| Education                                                       | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| БрГТУ / Факультет электронно-информационных систем              | 09/2017 - 07/2021 |
-| youtube.com / HTML, CSS до результата                           | 10/2022 - 01/2023 |
-| udemy.com /    <a target='_blank' href='https://udemy-certificate.s3.amazonaws.com/image/UC-5bf1a7e3-0a0d-4760-acba-3899e7dcb465.jpg'>Полный курс по JavaScript + React, Redux - сертификат </a>         | 02/2023 - 01/2024 |
+| BrSTU / Faculty of Electronic Information Systems               | 09/2017 - 07/2021 |
+| youtube.com / HTML, CSS - full course                           | 10/2022 - 01/2023 |
+| udemy.com /    <a target='_blank' href='https://udemy-certificate.s3.amazonaws.com/image/UC-5bf1a7e3-0a0d-4760-acba-3899e7dcb465.jpg'>Complete course on JavaScript + React, Redux - certificate </a>         | 02/2023 - 01/2024 |
 
 ---
 
-### 🤝 Вы можете со мной связаться:
+### 🤝 You can contact me:
 
   <div id="badges">
     
@@ -36,7 +37,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -55,7 +56,7 @@
 
 
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub Statistics:
 
 <table>
   <tr>
