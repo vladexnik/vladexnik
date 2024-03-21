@@ -1,7 +1,6 @@
 
 # Hi there, i am Vladislav. My [portfolio site with pet-projects](https://vlad22nikituk.netlify.app/)
 
----
 
 ### :man_technologist: About me:
 
