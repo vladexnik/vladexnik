@@ -1,5 +1,5 @@
 
-# Hi there, i am [Vladislav](https://vlad22nikituk.netlify.app/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# Hi there, i am Vladislav. My [portfolio site with pet-projects](https://vlad22nikituk.netlify.app/)
 
 ---
 
