@@ -1,18 +1,17 @@
 
-# Hi there, i am Vladislav. My [portfolio site with pet-projects](https://vlad22nikituk.netlify.app/)
+# Hi there, i am Vladislav. My [portfolio site for some of my pet-projects](https://vlad22nikituk.netlify.app/)
 
 
 ### :man_technologist: About me:
 
-I am Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.  My path to IT began at the university, where I wrote applications in C, C++, Java, C#. Then I took courses in layout and web-development, during which I learned JavaScript and many libraries for working with UI. Communication skills are at the high level, I have an experience at working in a team of developers, when we were creating projects at the university.<br>
-At the moment I am looking for a company where I will improve and grow into a strong technical specialist.
+I am Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I took courses of layout and web-development, during which I learned JavaScript, TypeScript and many libraries for working with UI. I have experience in developing SPA using React and its state mangers. I finished internship in Vue JS framework and now I am working mainly as Vue JS developer. Communication skills are at the high level, I have an experience in working with a team of developers in several projects of company.<br>
 
 | Education                                                       | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | BrSTU / Faculty of Electronic Information Systems               | 09/2017 - 07/2021 |
 | youtube.com / HTML, CSS - full course                           | 10/2022 - 01/2023 |
 | udemy.com /    <a target='_blank' href='https://udemy-certificate.s3.amazonaws.com/image/UC-5bf1a7e3-0a0d-4760-acba-3899e7dcb465.jpg'>Complete course on JavaScript + React, Redux - certificate </a>         | 02/2023 - 01/2024 |
-
+| Innowise comp./ Internship, Job - Vue JS Developer              | 02/2024 - now     |
 ---
 
 ### 🤝 You can contact me:
@@ -28,9 +27,6 @@ At the moment I am looking for a company where I will improve and grow into a st
     <a href="mailto:nikityuk.vlad9@gmail.com" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" title="nikityuk.vlad9@gmail.com" width="40" width="40" height="40"   
       alt="gmail"/>
-    </a>
-    <a href="https://vk.com/vladzenik" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" title="vk.com: vladzenik" width="40" width="40" height="40" alt="gmail"/>
     </a>
   </div>
 
