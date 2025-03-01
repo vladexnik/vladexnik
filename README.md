@@ -1,5 +1,5 @@
 
-# Hi there, i am Vladislav. My [portfolio site for some of my pet-projects](https://vlad22nikituk.netlify.app/)
+# Hi there, i am Vladislav.
 
 
 ### :man_technologist: About me:
